@@ -1,0 +1,15 @@
+http
+json? xml
+api
+postman
+charles, fiddler
+dev tools
+vpn
+xcode
+android studio
+adb
+aql
+postgress
+jmeter
+scrum
+python
